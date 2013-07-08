@@ -1,6 +1,9 @@
-set rtp+=~/.vim/
+if has('win32') || has('win64')
+	set rtp+=~/.vim/
+endif
 
 colorscheme molokai
+syntax on
 
 set nocompatible
 set lines=50

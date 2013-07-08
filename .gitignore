@@ -1,0 +1,28 @@
+.p4merge/
+.p4qt/
+.ssh/
+.VirtualBox/
+AppData/
+Application Data/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+VirtualBox VMs/
+
+.gitconfig
+.gitk
+.hgrc
+.kdiff3rc
+_viminfo
+mm.cfg
+ntuser.*
+
+*.swp
+
